@@ -1,0 +1,24 @@
+.col{
+  background-color: aliceblue;
+  margin: 20px;
+  padding: 20px;
+  border-radius: 15px;
+  width: 43%;
+}
+
+.roww{
+  display: flex;
+  flex-wrap: wrap;
+}
+.about h1, .col h3{
+  text-align: center;
+}
+
+.bdetails{
+  border: 2px solid black;
+  border-radius: 10px;
+  margin: 2px;
+}
+.bdetails p{
+  margin: 2px;
+}

@@ -1,0 +1,26 @@
+label.label1{
+  color: black;
+}
+.error{
+  font-size: 20%;
+}
+.row#lbl{
+  color: black;
+}
+.row button, #btn{
+  margin-bottom: 10px;
+}
+
+div.mstmt{
+  align-content: center;
+  background-color: aliceblue;
+}
+
+.tdetail{
+  background-color: aliceblue;
+}
+
+div.row.select, div.row#ss{
+  margin-left: 5%;
+  width: 200px;
+}
